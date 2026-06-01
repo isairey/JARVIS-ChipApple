@@ -2,12 +2,12 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
 
-# 🤖 Jarvis MLX
+# 🤖 JARVIS-ChipApple
 
 ### Asistente de Inteligencia Artificial Offline para Apple Silicon 🚀
 
 <p align="center">
-  <b>Jarvis MLX</b> es una solución todo en uno inspirada en asistentes inteligentes que integra reconocimiento de voz, modelos de lenguaje y síntesis de voz ejecutándose localmente en equipos Apple Silicon mediante MLX.
+  <b>JARVIS-ChipApple</b> es una solución todo en uno inspirada en asistentes inteligentes que integra reconocimiento de voz, modelos de lenguaje y síntesis de voz ejecutándose localmente en equipos Apple Silicon mediante MLX.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 # 🌌 Acerca del proyecto
 
-**Jarvis MLX** es un asistente inteligente diseñado para funcionar completamente de forma local en computadoras Mac con procesadores Apple Silicon.
+**JARVIS-ChipApple** es un asistente inteligente diseñado para funcionar completamente de forma local en computadoras Mac con procesadores Apple Silicon.
 
 El proyecto combina múltiples tecnologías modernas de Inteligencia Artificial:
 
@@ -170,7 +170,7 @@ Sistema de síntesis de voz.
 # 📂 Estructura del proyecto
 
 ```bash
-Jarvis-MLX/
+JARVIS-ChipApple/
 │
 ├── melo/
 ├── whisper/
@@ -373,7 +373,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Huw Prosser
+## Isai Reyes - FullStack Developer
 
 Desarrollador enfocado en Inteligencia Artificial local, asistentes inteligentes y tecnologías optimizadas para Apple Silicon.
 
@@ -397,7 +397,7 @@ Proyecto open source orientado al desarrollo de asistentes inteligentes locales 
 
 <div align="center">
 
-### 🤖 Jarvis MLX — tu asistente inteligente offline impulsado por Apple Silicon 🚀
+### 🤖 JARVIS-ChipApple — tu asistente inteligente offline impulsado por Apple Silicon 🚀
 
 </div>
 
